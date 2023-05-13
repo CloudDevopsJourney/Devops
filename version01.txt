@@ -3,3 +3,5 @@ This is the first feature of our application.
 1st line>>This is the bug fix in development branch
 
 2nd line>>This is gadbad code
+
+3rd line>>This feature will gadbad everything from now.
