@@ -1,1 +1,1 @@
-This is the first feature of our application.
+Thi is the first feature of our application.
